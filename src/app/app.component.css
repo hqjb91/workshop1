@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    width: 100%;
+    padding: 7% 7%;
+    margin: 0;
+    height: 49vh;
+    max-width: none;
+    color: #fff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2rem;
+}
+
+#main {
+    background-image:url("../assets/images/building.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#content {
+    background-image:url("../assets/images/bridge.jpg");  
+    background-repeat: no-repeat;
+    background-size: cover;
+}
